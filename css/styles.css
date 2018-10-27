@@ -1,11 +1,3 @@
-.app {
-	
-}
-
-.contactsList {
-	
-}
-
 .contactForm {
 	text-align: center;
 	
@@ -16,10 +8,6 @@
 	border-style: solid;
 	position: relative;
 	background-color: rgb(215, 219, 237);
-}
-
-button {
-
 }
 
 .fa {

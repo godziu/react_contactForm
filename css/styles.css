@@ -1,0 +1,40 @@
+.app {
+	
+}
+
+.contactsList {
+	
+}
+
+.contactForm {
+	text-align: center;
+	
+}
+
+.contactItem {
+	padding-bottom: 45px;
+	border-style: solid;
+	position: relative;
+	background-color: rgb(215, 219, 237);
+}
+
+button {
+
+}
+
+.fa {
+	position: absolute;
+	font-size: 100px;
+    bottom: 25px;
+    left: 30px;
+}
+
+.contactLabel {
+	text-align: center;
+	font-size: 20px;
+}
+
+.contactEmail {
+	padding-left: 400px;
+}
+
